@@ -9,7 +9,7 @@ A snake game made in python using the turtle library
 Clone the project
 
 ```bash
-  git clone https://github.com/Jlynn209/snake_game.git
+  git clone https://github.com/Jlynn209/pong.git
 ```
 ```bash
   run main.py
