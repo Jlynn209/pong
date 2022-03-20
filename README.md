@@ -1,7 +1,7 @@
 
 # Pong game in Python
 
-A snake game made in python using the turtle library 
+A Pong game made in python using the turtle library 
 
 
 ## Run Locally
